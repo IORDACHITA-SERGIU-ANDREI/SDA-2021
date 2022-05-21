@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1615738926 source:c:\users\legion\desktop\laboratoare-sda\laborator-2-iordachita-sergiu-andrei\ex_2\ex_2\bubblesort.c
+	"header.h"
+	<string.h>
+	<stdio.h>
+
+1615737492 source:c:\users\legion\desktop\laboratoare-sda\laborator-2-iordachita-sergiu-andrei\ex_2\ex_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1615737475 c:\users\legion\desktop\laboratoare-sda\laborator-2-iordachita-sergiu-andrei\ex_2\ex_2\header.h
+

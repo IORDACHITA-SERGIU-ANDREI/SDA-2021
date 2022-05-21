@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615739739 source:c:\users\legion\desktop\laboratoare-sda\laborator-2-iordachita-sergiu-andrei\ex_3\ex_3\quicksort.c
+	"header.h"
+
+1615739687 c:\users\legion\desktop\laboratoare-sda\laborator-2-iordachita-sergiu-andrei\ex_3\ex_3\header.h
+
+1615739687 source:c:\users\legion\desktop\laboratoare-sda\laborator-2-iordachita-sergiu-andrei\ex_3\ex_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
