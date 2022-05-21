@@ -1,0 +1,5 @@
+id: id003 	n: Popescu 	p: Catalin 	nr: 1
+id: id002 	n: Ionescu 	p: Diana 	nr: 2
+id: id004 	n: Georgescu 	p: Darius 	nr: 3
+id: id001 	n: Dinu 	p: Darius 	nr: 1
+Nr. Total de restante: 7
